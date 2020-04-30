@@ -1,3 +1,5 @@
 This program is just like a mathematics quiz app which contains questions on basic concept of mathematics.
 I have created three levels in this program i.e Easy, medium and Hard each contains nearly 10 questions.
-After passing all the rounds it also provides certificate of completion.
+It also have marking sytem for correct and incorrect ans, for each incorrect ans there is a penality of some marks which is given in the instruction of each level.
+You can access next level only if you complete first previous one.
+After clearing all the rounds it also provides certificate of completion.
